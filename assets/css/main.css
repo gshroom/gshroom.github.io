@@ -3,7 +3,7 @@
 
 @font-face {
   font-family: 'Maplestory Light';
-  src : url('..webfonts/Maplestory Light.ttf') format('truetype');
+  src : url('../webfonts/Maplestory Light.ttf') format('truetype');
 }
 
 body {
