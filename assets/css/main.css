@@ -5,6 +5,10 @@
   font-family: 'Maplestory Light';
   src : url('webfonts/Maplestory Light.ttf') format('truetype');
 }
+
+body {
+  font-family: 'Maplestory Light';
+}
 /*
 	Editorial by HTML5 UP
 	html5up.net | @ajlkn
